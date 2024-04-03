@@ -34,7 +34,7 @@
 
 ## Configure back-end
 
-**You need to install [Node.js] (https://nodejs.org/en/download/) and then, to clone the project via HTTPS, run this command:**
+**You need to install [Node.js](https://nodejs.org/en/download/) and then, to clone the project via HTTPS, run this command:**
 
 ```
 git clone https://github.com/rocketseat-education/nlw-unite-nodejs.git
@@ -96,7 +96,7 @@ npm run dev
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [Coffee Delivery](https://github.com/lzhudson/pass.in/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/lzhudson/pass.in/blob/main/CONTRIBUTING.md) to find out about the coding standards.
+Feel free to **file a new issue** with a respective title and description on the [pass.in](https://github.com/lzhudson/pass.in/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/lzhudson/pass.in/blob/main/CONTRIBUTING.md) to find out about the coding standards.
 
 # :tada: Contributing
 
@@ -105,6 +105,6 @@ Check out the [contributing](https://github.com/lzhudson/pass.in/blob/main/CONTR
 # :closed_book: License
 
 Released in 2024
-This project is under the [MIT license](https://github.com/lzhudson/pass.in/main/LICENSE).
+This project is under the [MIT license](https://github.com/lzhudson/pass.in/blob/main/LICENSE).
 
 Designed by [Rockeseat](https://github.com/Rocketseat) and developed by [Hudson Holanda](https://github.com/lzhudson) 🖤🚀
