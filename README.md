@@ -70,7 +70,7 @@ npm run dev
 
 ## Configure front-end
 
-**You need to install [Node.js] (https://nodejs.org/en/download/) and then, to clone the project via HTTPS, run this command:**
+**You need to install [Node.js](https://nodejs.org/en/download/) and then, to clone the project via HTTPS, run this command:**
 
 ```
 git clone https://github.com/lzhudson/pass.in.git
